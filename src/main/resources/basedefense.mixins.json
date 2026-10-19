@@ -1,0 +1,14 @@
+{
+	"required": true,
+	"package": "com.lesha_top1972.basedefense.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [
+		"ExampleMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	},
+	"overwrites": {
+		"requireAnnotations": true
+	}
+}

@@ -1,0 +1,8 @@
+{
+  "entity.basedefense.iron_zombie": "Железный зомби",
+  "entity.basedefense.brute_1": "Громила 1",
+  "entity.basedefense.brute_2": "Громила 2",
+  "entity.basedefense.leaper": "Прыгун",
+  "effect.basedefense.crushed": "Придавлен",
+  "effect.basedefense.disarmed": "Обезоружен"
+}

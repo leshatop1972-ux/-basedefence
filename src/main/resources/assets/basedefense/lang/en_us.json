@@ -1,0 +1,8 @@
+{
+  "entity.basedefense.iron_zombie": "Iron Zombie",
+  "entity.basedefense.brute_1": "Brute 1",
+  "entity.basedefense.brute_2": "Brute 2",
+  "entity.basedefense.leaper": "Leaper",
+  "effect.basedefense.crushed": "Crushed",
+  "effect.basedefense.disarmed": "Disarmed"
+}
